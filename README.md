@@ -27,7 +27,7 @@ You are owing a supermarket mall and through membership cards, you have some bas
   <li>Specify number of clusters K.</li>
 <li>Initialize centroids by first shuffling the dataset and then randomly selecting K data points for the centroids without replacement.</li>
 <li>Keep iterating until there is no change to the centroids. i.e assignment of data points to clusters isn’t changing.</li>
- </ol>
+</ol>
 ![image](https://user-images.githubusercontent.com/78408338/198832009-7d8f7140-761f-4abd-b91c-efd6b347b75e.png)
 
 

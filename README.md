@@ -18,13 +18,16 @@ Customer Segmentation is the subdivision of a market into discrete customer grou
   <li>Choose specific product features for deployment.</li>
   <li>Prioritize new product development efforts.</li>
  </ol>
-The Challenge
+ 
+<b>The Challenge</b>
 You are owing a supermarket mall and through membership cards, you have some basic data about your customers like Customer ID, age, gender, annual income and spending score. You want to understand the customers like who are the target customers so that the sense can be given to marketing team and plan the strategy accordingly.
 
 <b>K Means Clustering Algorithm</b>
-Specify number of clusters K.
-Initialize centroids by first shuffling the dataset and then randomly selecting K data points for the centroids without replacement.
-Keep iterating until there is no change to the centroids. i.e assignment of data points to clusters isn’t changing.
+<ol>
+  <li>Specify number of clusters K.</li>
+<li>Initialize centroids by first shuffling the dataset and then randomly selecting K data points for the centroids without replacement.</li>
+<li>Keep iterating until there is no change to the centroids. i.e assignment of data points to clusters isn’t changing.</li>
+ </ol>
 ![image](https://user-images.githubusercontent.com/78408338/198832009-7d8f7140-761f-4abd-b91c-efd6b347b75e.png)
 
 

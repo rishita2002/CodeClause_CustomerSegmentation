@@ -31,8 +31,9 @@ K Means Clustering where K=3
 The dataset can be downloaded from the kaggle website which can be found at https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python.
 
 <b>Environment and tools</b>
-  scikit-learn
-  seaborn
-  numpy
-  pandas
-  matplotlib
+<ol>
+  <li>scikit-learn</li>
+  <li>seaborn</li>
+  <li>numpy</li>
+  <li>pandas</li>
+  <li>matplotlib</li>
